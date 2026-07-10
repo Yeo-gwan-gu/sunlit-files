@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///C:/launcher-files/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://yeo-gwan-gu.github.io/sunlit-files/feed.xml",
+    "discord": {
+      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    }
+  }
+}

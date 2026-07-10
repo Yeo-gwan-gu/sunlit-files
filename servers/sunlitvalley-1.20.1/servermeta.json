@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/launcher-files/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "🌻 임시서버 - Sunlit Valley",
+    "description": "대충 놀고싶어 만든 서버. 공지는 디스코드에서.",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "background-sullen.gl.joinmc.link:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": []
+}
