@@ -993,16 +993,6 @@
           }
         },
         {
-          "id": "com.mrcrayfish:controllable:0.21.9@jar",
-          "name": "Controllable",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7569416,
-            "url": "https://raw.githubusercontent.com/Yeo-gwan-gu/sunlit-files/main/servers/sunlitvalley-1.20.1/forgemods/required/controllable-forge-1.20.1-0.21.9.jar",
-            "MD5": "f25fbb8687d786c153a84029e35bfd93"
-          }
-        },
-        {
           "id": "com.blamejared:controlling:12.0.2@jar",
           "name": "Controlling",
           "type": "ForgeMod",
