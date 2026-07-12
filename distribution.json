@@ -1453,16 +1453,6 @@
           }
         },
         {
-          "id": "com.hrznstudio:emojiful:4.2.0@jar",
-          "name": "Emojiful",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 262412,
-            "url": "https://raw.githubusercontent.com/Yeo-gwan-gu/sunlit-files/main/servers/sunlitvalley-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
-            "MD5": "0ba360de4747e64c6325b74c0055479a"
-          }
-        },
-        {
           "id": "net.darkhax:enchdesc:17.1.19@jar",
           "name": "EnchantmentDescriptions",
           "type": "ForgeMod",
