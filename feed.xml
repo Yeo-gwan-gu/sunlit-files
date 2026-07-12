@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  블로그 없이 공지사항을 직접 관리하고 싶을 때 쓰는 파일입니다.
+  이 파일을 feed.xml 이름으로 GitHub 저장소에 올리고,
+  distribution.json의 "rss" 값을
+  https://내깃허브아이디.github.io/sunlit-files/feed.xml 로 지정하세요.
+
+  새 공지를 올리려면 <item> 블록을 하나 복사해서 맨 위에 추가하고
+  GitHub에서 파일을 수정(커밋)하면 됩니다.
+-->
+<rss version="2.0">
+  <channel>
+    <title>임시 서버 공지</title>
+    <link>https://discord.gg/ezqHhxgTYw</link>
+    <description>임시 서버 공지사항</description>
+    <language>ko</language>
+
+    <item>
+      <title>🎉임시 서버 오픈!</title>
+      <link>https://discord.gg/ezqHhxgTYw</link>
+      <description>임시 서버가 열렸습니다! 런처에서 플레이 버튼만 누르면 바로 접속됩니다. 규칙은 디스코드 공지 채널을 확인해주세요.</description>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 +0900</pubDate>
+      <guid>notice-001</guid>
+    </item>
+
+    <item>
+      <title>📌 공지 예시 (두 번째 글)</title>
+      <link>https://discord.gg/ezqHhxgTYw</link>
+      <description>이 블록을 복사해서 새 공지를 추가하세요. pubDate와 guid를 매번 바꿔주는 것 잊지 마세요!</description>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 +0900</pubDate>
+      <guid>notice-000</guid>
+    </item>
+  </channel>
+</rss>
