@@ -2733,16 +2733,6 @@
           }
         },
         {
-          "id": "pigcart.particlerain.loaders:particlerain:4.0.0-beta.5@jar",
-          "name": "Particle Rain",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1226152,
-            "url": "https://raw.githubusercontent.com/Yeo-gwan-gu/sunlit-files/main/servers/sunlitvalley-1.20.1/forgemods/required/particlerain-4.0.0-beta.5+1.20.1-forge.jar",
-            "MD5": "de69e6b8aba913513305cbe469fc5d3d"
-          }
-        },
-        {
           "id": "snownee.passablefoliage:passablefoliage:8.2.1@jar",
           "name": "Passable Foliage",
           "type": "ForgeMod",
